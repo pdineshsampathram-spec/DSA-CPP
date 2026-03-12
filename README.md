@@ -46,10 +46,10 @@ DSA-CPP
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| 🟢 Easy    | 5               |
+| 🟢 Easy    | 6               |
 | 🟡 Medium  | 1               |
 | 🔴 Hard    | 1               |
-| ⭐ Total    | **7**           |
+| ⭐ Total    | **8**           |
 
 ---
 
@@ -64,7 +64,7 @@ DSA-CPP
 | 1672 | Richest Customer Wealth | C++      |
 | 1929 | Concatenation of Array  | C++      |
 | 2235 | Add Two Integers        | C++      |
-
+| 217  | Contains Duplicate      | C++      |
 ---
 
 ## 🟡 Medium
