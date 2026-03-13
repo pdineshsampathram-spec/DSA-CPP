@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg">
   <img src="https://img.shields.io/badge/Platform-LeetCode-orange.svg">
-  <img src="https://img.shields.io/badge/Total%20Solved-10-brightgreen">
+  <img src="https://img.shields.io/badge/Total%20Solved-11-brightgreen">
   <img src="https://img.shields.io/badge/DSA%20Journey-Active-success">
 </p>
 
@@ -47,10 +47,10 @@ DSA-CPP
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| 🟢 Easy    | 8               |
+| 🟢 Easy    | 9               |
 | 🟡 Medium  | 1               |
 | 🔴 Hard    | 1               |
-| ⭐ Total    | **10**         |
+| ⭐ Total    | **11**         |
 
 ---
 
@@ -68,6 +68,7 @@ DSA-CPP
 | 217  | Contains Duplicate                   | C++      |
 |  1   | Two Sum                              | C++      |
 | 121  | Best Time to Buy and Sell Stock      | C++      |
+| 724  | Find Pivot Index                     | C++      |
 ---
 
 ## 🟡 Medium
