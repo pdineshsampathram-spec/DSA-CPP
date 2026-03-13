@@ -37,6 +37,7 @@ DSA-CPP
 │   └── Hard
 │
 ├── pair practice
+|── vector practice
 └── README.md
 ```
 
@@ -46,10 +47,10 @@ DSA-CPP
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| 🟢 Easy    | 7               |
+| 🟢 Easy    | 8               |
 | 🟡 Medium  | 1               |
 | 🔴 Hard    | 1               |
-| ⭐ Total    | **9**           |
+| ⭐ Total    | **10**         |
 
 ---
 
@@ -57,15 +58,16 @@ DSA-CPP
 
 ## 🟢 Easy
 
-| #    | Problem                 | Language |
-| ---- | ----------------------- | -------- |
-| 1470 | Shuffle the Array       | C++      |
-| 1480 | Running Sum of 1D Array | C++      |
-| 1672 | Richest Customer Wealth | C++      |
-| 1929 | Concatenation of Array  | C++      |
-| 2235 | Add Two Integers        | C++      |
-| 217  | Contains Duplicate      | C++      |
-|  1   | Two Sum                 | C++      |
+| #    | Problem                              | Language |
+| ---- | ------------------------------------ | -------- |
+| 1470 | Shuffle the Array                    | C++      |
+| 1480 | Running Sum of 1D Array              | C++      |
+| 1672 | Richest Customer Wealth              | C++      |
+| 1929 | Concatenation of Array               | C++      |
+| 2235 | Add Two Integers                     | C++      |
+| 217  | Contains Duplicate                   | C++      |
+|  1   | Two Sum                              | C++      |
+| 121  | Best Time to Buy and Sell Stock      | C++      |
 ---
 
 ## 🟡 Medium
