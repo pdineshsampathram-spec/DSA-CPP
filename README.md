@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg">
   <img src="https://img.shields.io/badge/Platform-LeetCode-orange.svg">
-  <img src="https://img.shields.io/badge/Total%20Solved-14-brightgreen">
+  <img src="https://img.shields.io/badge/Total%20Solved-15-brightgreen">
   <img src="https://img.shields.io/badge/DSA%20Journey-Active-success">
 </p>
 
@@ -47,10 +47,10 @@ DSA-CPP
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| 🟢 Easy    | 10               |
+| 🟢 Easy    | 11               |
 | 🟡 Medium  | 3               |
 | 🔴 Hard    | 1               |
-| ⭐ Total    | **13**         |
+| ⭐ Total    | **15**         |
 
 ---
 
@@ -70,6 +70,8 @@ DSA-CPP
 | 121  | Best Time to Buy and Sell Stock      | C++      |
 | 724  | Find Pivot Index                     | C++      |
 | 283  | Move Zeroes                     | C++      |
+| 2341  | Maximum Number of Pairs in Array | C++      |
+
 ---
 
 ## 🟡 Medium
