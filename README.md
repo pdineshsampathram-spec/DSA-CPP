@@ -13,8 +13,14 @@
 
 This repository contains my **Data Structures & Algorithms practice solutions in C++**.
 
-I solve problems mainly from **LeetCode** and organize them based on **difficulty level**.
-The goal of this repository is to **track my progress, improve problem-solving skills, and prepare for technical interviews**.
+I mainly solve problems from **LeetCode** and organize them based on **difficulty level**.
+
+The goal of this repository is to:
+
+* Track my **DSA learning progress**
+* Improve **problem-solving skills**
+* Strengthen **algorithmic thinking**
+* Prepare for **technical interviews**
 
 ---
 
@@ -36,10 +42,30 @@ DSA-CPP
 │   ├── Medium
 │   └── Hard
 │
+├── vector practice
 ├── pair practice
-|── vector practice
+├── list practice
+├── deque practice
+├── stack practice
+│
 └── README.md
 ```
+
+---
+
+# 📚 STL Concepts Practiced
+
+This repository also includes practice implementations of important **C++ STL containers**.
+
+| Folder          | Concept                  |
+| --------------- | ------------------------ |
+| vector practice | Dynamic array operations |
+| pair practice   | Pair data structure      |
+| list practice   | Doubly linked list       |
+| deque practice  | Double ended queue       |
+| stack practice  | LIFO data structure      |
+
+Learning STL containers helps in solving **DSA problems efficiently and writing optimized code**.
 
 ---
 
@@ -47,10 +73,10 @@ DSA-CPP
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| 🟢 Easy    | 14               |
+| 🟢 Easy    | 14              |
 | 🟡 Medium  | 3               |
 | 🔴 Hard    | 1               |
-| ⭐ Total    | **18**         |
+| ⭐ Total    | **18**          |
 
 ---
 
@@ -58,32 +84,32 @@ DSA-CPP
 
 ## 🟢 Easy
 
-| #    | Problem                              | Language |
-| ---- | ------------------------------------ | -------- |
-| 1470 | Shuffle the Array                    | C++      |
-| 1480 | Running Sum of 1D Array              | C++      |
-| 1672 | Richest Customer Wealth              | C++      |
-| 1929 | Concatenation of Array               | C++      |
-| 2235 | Add Two Integers                     | C++      |
-| 217  | Contains Duplicate                   | C++      |
-|  1   | Two Sum                              | C++      |
-| 121  | Best Time to Buy and Sell Stock      | C++      |
-| 724  | Find Pivot Index                     | C++      |
-| 283  | Move Zeroes                     | C++      |
-| 2341  | Maximum Number of Pairs in Array | C++      |
-| 1512  | Number of Good Pairs | C++      |
-| 977  | Squares of a Sorted Array | C++      |
-| 242  | Valid Anagram | C++      |
+| #    | Problem                          | Language |
+| ---- | -------------------------------- | -------- |
+| 1470 | Shuffle the Array                | C++      |
+| 1480 | Running Sum of 1D Array          | C++      |
+| 1672 | Richest Customer Wealth          | C++      |
+| 1929 | Concatenation of Array           | C++      |
+| 2235 | Add Two Integers                 | C++      |
+| 217  | Contains Duplicate               | C++      |
+| 1    | Two Sum                          | C++      |
+| 121  | Best Time to Buy and Sell Stock  | C++      |
+| 724  | Find Pivot Index                 | C++      |
+| 283  | Move Zeroes                      | C++      |
+| 2341 | Maximum Number of Pairs in Array | C++      |
+| 1512 | Number of Good Pairs             | C++      |
+| 977  | Squares of a Sorted Array        | C++      |
+| 242  | Valid Anagram                    | C++      |
 
 ---
 
 ## 🟡 Medium
 
-| #   | Problem    | Language |
-| --- | ---------- | -------- |
-| 877 | Stone Game | C++      |
-|  34 | Find First and Last Position of Element in Sorted Array | C++      |
-|  50 | Pow(x, n) | C++      |
+| #   | Problem                                                 | Language |
+| --- | ------------------------------------------------------- | -------- |
+| 877 | Stone Game                                              | C++      |
+| 34  | Find First and Last Position of Element in Sorted Array | C++      |
+| 50  | Pow(x, n)                                               | C++      |
 
 ---
 
@@ -99,7 +125,7 @@ DSA-CPP
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/xHEB4V3WTQ?theme=dark\&font=baloo\&ext=heatmap)
 
-🔗 Profile:
+🔗 Profile
 https://leetcode.com/u/xHEB4V3WTQ/
 
 ---
@@ -132,6 +158,7 @@ https://leetcode.com/u/xHEB4V3WTQ/
 
 * Solve **300+ LeetCode problems**
 * Strengthen **Data Structures & Algorithms**
+* Master **C++ STL**
 * Improve **problem-solving skills**
 * Prepare for **software engineering interviews**
 
