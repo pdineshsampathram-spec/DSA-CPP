@@ -142,10 +142,10 @@ https://leetcode.com/u/xHEB4V3WTQ/
 
 ---
 
+
 # 📈 GitHub Activity Graph
 
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=pdineshsampathram-spec\&theme=tokyo-night)](https://github.com/pdineshsampathram-spec)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pdineshsampathram-spec&theme=tokyo-night&area=true&hide_border=true)
 ---
 
 # 🔥 GitHub Streak
