@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg">
   <img src="https://img.shields.io/badge/Platform-LeetCode-orange.svg">
-  <img src="https://img.shields.io/badge/Total%20Solved-17-brightgreen">
+  <img src="https://img.shields.io/badge/Total%20Solved-18-brightgreen">
   <img src="https://img.shields.io/badge/DSA%20Journey-Active-success">
 </p>
 
@@ -47,10 +47,10 @@ DSA-CPP
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| 🟢 Easy    | 13               |
+| 🟢 Easy    | 14               |
 | 🟡 Medium  | 3               |
 | 🔴 Hard    | 1               |
-| ⭐ Total    | **17**         |
+| ⭐ Total    | **18**         |
 
 ---
 
@@ -73,6 +73,7 @@ DSA-CPP
 | 2341  | Maximum Number of Pairs in Array | C++      |
 | 1512  | Number of Good Pairs | C++      |
 | 977  | Squares of a Sorted Array | C++      |
+| 242  | Valid Anagram | C++      |
 
 ---
 
