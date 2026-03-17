@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg">
   <img src="https://img.shields.io/badge/Platform-LeetCode-orange.svg">
-  <img src="https://img.shields.io/badge/Total%20Solved-19-brightgreen">
+  <img src="https://img.shields.io/badge/Total%20Solved-20-brightgreen">
   <img src="https://img.shields.io/badge/DSA%20Journey-Active-success">
 </p>
 
@@ -73,10 +73,10 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| 🟢 Easy    | 15              |
+| 🟢 Easy    | 16              |
 | 🟡 Medium  | 3               |
 | 🔴 Hard    | 1               |
-| ⭐ Total    | **19**          |
+| ⭐ Total    | **20**          |
 
 ---
 
@@ -101,6 +101,7 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 | 977  | Squares of a Sorted Array        | C++      |
 | 242  | Valid Anagram                    | C++      |
 | 20  | Valid Parentheses                    | C++      |
+| 682  | Baseball Game                    | C++      |
 
 ---
 
