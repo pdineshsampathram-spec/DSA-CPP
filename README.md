@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg">
   <img src="https://img.shields.io/badge/Platform-LeetCode-orange.svg">
-  <img src="https://img.shields.io/badge/Total%20Solved-25-brightgreen">
+  <img src="https://img.shields.io/badge/Total%20Solved-26-brightgreen">
   <img src="https://img.shields.io/badge/DSA%20Journey-Active-success">
 </p>
 
@@ -73,10 +73,10 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| 🟢 Easy    | 21              |
+| 🟢 Easy    | 22              |
 | 🟡 Medium  | 3               |
 | 🔴 Hard    | 1               |
-| ⭐ Total    | **25**          |
+| ⭐ Total    | **26**          |
 
 ---
 
@@ -107,6 +107,7 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 | 1614  | Maximum Nesting Depth of the Parentheses                  | C++      |
 | 933  | Number of Recent Calls                   | C++      |
 | 496  | Next Greater Element I                    | C++      |
+| 643  | Maximum Average Subarray I                    | C++      |
 
 ---
 
