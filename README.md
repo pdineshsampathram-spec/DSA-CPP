@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg">
   <img src="https://img.shields.io/badge/Platform-LeetCode-orange.svg">
-  <img src="https://img.shields.io/badge/Total%20Solved-28-brightgreen">
+  <img src="https://img.shields.io/badge/Total%20Solved-29-brightgreen">
   <img src="https://img.shields.io/badge/DSA%20Journey-Active-success">
 </p>
 
@@ -74,9 +74,9 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
 | 🟢 Easy    | 22              |
-| 🟡 Medium  | 5               |
+| 🟡 Medium  | 6               |
 | 🔴 Hard    | 1               |
-| ⭐ Total    | **27**          |
+| ⭐ Total    | **29**          |
 
 ---
 
@@ -120,6 +120,7 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 | 50  | Pow(x, n)                                               | C++      |
 | 739  | Daily Temperatures | C++      |
 | 7  | Reverse Integer | C++      |
+| 503  | Next Greater Element II | C++      |
 
 ---
 
