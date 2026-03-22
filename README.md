@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg">
   <img src="https://img.shields.io/badge/Platform-LeetCode-orange.svg">
-  <img src="https://img.shields.io/badge/Total%20Solved-33-brightgreen">
+  <img src="https://img.shields.io/badge/Total%20Solved-34-brightgreen">
   <img src="https://img.shields.io/badge/DSA%20Journey-Active-success">
 </p>
 
@@ -75,8 +75,8 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 | ---------- | --------------- |
 | 🟢 Easy    | 25              |
 | 🟡 Medium  | 7               |
-| 🔴 Hard    | 1               |
-| ⭐ Total    | **33**          |
+| 🔴 Hard    | 2               |
+| ⭐ Total    | **34**          |
 
 ---
 
@@ -133,6 +133,8 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 | # | Problem                     | Language |
 | - | --------------------------- | -------- |
 | 4 | Median of Two Sorted Arrays | C++      |
+| 239 | Sliding Window Maximum | C++      |
+
 
 ---
 
