@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg">
   <img src="https://img.shields.io/badge/Platform-LeetCode-orange.svg">
-  <img src="https://img.shields.io/badge/Total%20Solved-34-brightgreen">
+  <img src="https://img.shields.io/badge/Total%20Solved-33-brightgreen">
   <img src="https://img.shields.io/badge/DSA%20Journey-Active-success">
 </p>
 
@@ -21,6 +21,7 @@ The goal of this repository is to:
 * Improve **problem-solving skills**
 * Strengthen **algorithmic thinking**
 * Prepare for **technical interviews**
+* Currently focusing on **Sliding Window, Stack, Hashing, and Two Pointers patterns**
 
 ---
 
@@ -73,10 +74,10 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| 🟢 Easy    | 25              |
+| 🟢 Easy    | 24              |
 | 🟡 Medium  | 7               |
 | 🔴 Hard    | 2               |
-| ⭐ Total    | **34**          |
+| ⭐ Total    | **33**          |
 
 ---
 
@@ -84,33 +85,32 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 
 ## 🟢 Easy
 
-| #    | Problem                          | Language |
-| ---- | -------------------------------- | -------- |
-| 1470 | Shuffle the Array                | C++      |
-| 1480 | Running Sum of 1D Array          | C++      |
-| 1672 | Richest Customer Wealth          | C++      |
-| 1929 | Concatenation of Array           | C++      |
-| 2235 | Add Two Integers                 | C++      |
-| 217  | Contains Duplicate               | C++      |
-| 1    | Two Sum                          | C++      |
-| 121  | Best Time to Buy and Sell Stock  | C++      |
-| 724  | Find Pivot Index                 | C++      |
-| 283  | Move Zeroes                      | C++      |
-| 2341 | Maximum Number of Pairs in Array | C++      |
-| 1512 | Number of Good Pairs             | C++      |
-| 977  | Squares of a Sorted Array        | C++      |
-| 242  | Valid Anagram                    | C++      |
-| 20  | Valid Parentheses                    | C++      |
-| 682  | Baseball Game                    | C++      |
-| 1047  | Remove All Adjacent Duplicates In String                   | C++      |
-| 844  | Backspace String Compare                   | C++      |
-| 1614  | Maximum Nesting Depth of the Parentheses                  | C++      |
+| #    | Problem                                  | Language |
+| ---- | ---------------------------------------- | -------- |
+| 1470 | Shuffle the Array                        | C++      |
+| 1480 | Running Sum of 1D Array                  | C++      |
+| 1672 | Richest Customer Wealth                  | C++      |
+| 1929 | Concatenation of Array                   | C++      |
+| 2235 | Add Two Integers                         | C++      |
+| 217  | Contains Duplicate                       | C++      |
+| 1    | Two Sum                                  | C++      |
+| 121  | Best Time to Buy and Sell Stock          | C++      |
+| 724  | Find Pivot Index                         | C++      |
+| 283  | Move Zeroes                              | C++      |
+| 2341 | Maximum Number of Pairs in Array         | C++      |
+| 1512 | Number of Good Pairs                     | C++      |
+| 977  | Squares of a Sorted Array                | C++      |
+| 242  | Valid Anagram                            | C++      |
+| 20   | Valid Parentheses                        | C++      |
+| 682  | Baseball Game                            | C++      |
+| 1047 | Remove All Adjacent Duplicates In String | C++      |
+| 844  | Backspace String Compare                 | C++      |
+| 1614 | Maximum Nesting Depth of the Parentheses | C++      |
 | 933  | Number of Recent Calls                   | C++      |
-| 496  | Next Greater Element I                    | C++      |
-| 643  | Maximum Average Subarray I                    | C++      |
-| 219  | Contains Duplicate II                  | C++      |
-| 1652  | Defuse the Bomb                  | C++      |
-| 383  | Ransom Note                 | C++      |
+| 496  | Next Greater Element I                   | C++      |
+| 643  | Maximum Average Subarray I               | C++      |
+| 219  | Contains Duplicate II                    | C++      |
+| 1652 | Defuse the Bomb                          | C++      |
 
 ---
 
@@ -121,20 +121,19 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 | 877 | Stone Game                                              | C++      |
 | 34  | Find First and Last Position of Element in Sorted Array | C++      |
 | 50  | Pow(x, n)                                               | C++      |
-| 739  | Daily Temperatures | C++      |
-| 7  | Reverse Integer | C++      |
-| 503  | Next Greater Element II | C++      |
-| 3  | Longest Substring Without Repeating Characters | C++      |
+| 739 | Daily Temperatures                                      | C++      |
+| 7   | Reverse Integer                                         | C++      |
+| 503 | Next Greater Element II                                 | C++      |
+| 3   | Longest Substring Without Repeating Characters          | C++      |
 
 ---
 
 ## 🔴 Hard
 
-| # | Problem                     | Language |
-| - | --------------------------- | -------- |
-| 4 | Median of Two Sorted Arrays | C++      |
-| 239 | Sliding Window Maximum | C++      |
-
+| #   | Problem                     | Language |
+| --- | --------------------------- | -------- |
+| 4   | Median of Two Sorted Arrays | C++      |
+| 239 | Sliding Window Maximum      | C++      |
 
 ---
 
@@ -159,10 +158,10 @@ https://leetcode.com/u/xHEB4V3WTQ/
 
 ---
 
-
 # 📈 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pdineshsampathram-spec&theme=tokyo-night&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pdineshsampathram-spec\&theme=tokyo-night\&area=true\&hide_border=true)
+
 ---
 
 # 🔥 GitHub Streak
