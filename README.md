@@ -111,6 +111,8 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 | 643  | Maximum Average Subarray I               | C++      |
 | 219  | Contains Duplicate II                    | C++      |
 | 1652 | Defuse the Bomb                          | C++      |
+| 383 | Ransom Note                          | C++      |
+
 
 ---
 
