@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg">
   <img src="https://img.shields.io/badge/Platform-LeetCode-orange.svg">
-  <img src="https://img.shields.io/badge/Total%20Solved-33-brightgreen">
+  <img src="https://img.shields.io/badge/Total%20Solved-34-brightgreen">
   <img src="https://img.shields.io/badge/DSA%20Journey-Active-success">
 </p>
 
@@ -74,10 +74,10 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| 🟢 Easy    | 24              |
+| 🟢 Easy    | 25              |
 | 🟡 Medium  | 7               |
 | 🔴 Hard    | 2               |
-| ⭐ Total    | **33**          |
+| ⭐ Total    | **34**          |
 
 ---
 
@@ -112,6 +112,7 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 | 219  | Contains Duplicate II                    | C++      |
 | 1652 | Defuse the Bomb                          | C++      |
 | 383 | Ransom Note                          | C++      |
+| 9 | Palindrome Number                          | C++      |
 
 
 ---
