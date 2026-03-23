@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg">
   <img src="https://img.shields.io/badge/Platform-LeetCode-orange.svg">
-  <img src="https://img.shields.io/badge/Total%20Solved-35-brightgreen">
+  <img src="https://img.shields.io/badge/Total%20Solved-36-brightgreen">
   <img src="https://img.shields.io/badge/DSA%20Journey-Active-success">
 </p>
 
@@ -114,6 +114,7 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 | 383 | Ransom Note                          | C++      |
 | 9 | Palindrome Number                          | C++      |
 | 349 | Intersection of Two Arrays                          | C++      |
+| 1876 | Substrings of Size Three with Distinct Characters                         | C++      |
 
 ---
 
