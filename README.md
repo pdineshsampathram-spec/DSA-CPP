@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg">
   <img src="https://img.shields.io/badge/Platform-LeetCode-orange.svg">
-  <img src="https://img.shields.io/badge/Total%20Solved-36-brightgreen">
+  <img src="https://img.shields.io/badge/Total%20Solved-38-brightgreen">
   <img src="https://img.shields.io/badge/DSA%20Journey-Active-success">
 </p>
 
@@ -74,10 +74,10 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| 🟢 Easy    | 26              |
+| 🟢 Easy    | 28              |
 | 🟡 Medium  | 8               |
 | 🔴 Hard    | 2               |
-| ⭐ Total    | **36**          |
+| ⭐ Total    | **38**          |
 
 ---
 
