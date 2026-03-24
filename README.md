@@ -75,9 +75,9 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
 | 🟢 Easy    | 26              |
-| 🟡 Medium  | 7               |
+| 🟡 Medium  | 8               |
 | 🔴 Hard    | 2               |
-| ⭐ Total    | **35**          |
+| ⭐ Total    | **36**          |
 
 ---
 
@@ -129,6 +129,7 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 | 7   | Reverse Integer                                         | C++      |
 | 503 | Next Greater Element II                                 | C++      |
 | 3   | Longest Substring Without Repeating Characters          | C++      |
+| 167   | Two Sum II - Input Array Is Sorted         | C++      |
 
 ---
 
