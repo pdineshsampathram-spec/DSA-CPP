@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg">
   <img src="https://img.shields.io/badge/Platform-LeetCode-orange.svg">
-  <img src="https://img.shields.io/badge/Total%20Solved-39-brightgreen">
+  <img src="https://img.shields.io/badge/Total%20Solved-40-brightgreen">
   <img src="https://img.shields.io/badge/DSA%20Journey-Active-success">
 </p>
 
@@ -75,9 +75,9 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
 | 🟢 Easy    | 29              |
-| 🟡 Medium  | 8               |
+| 🟡 Medium  | 9               |
 | 🔴 Hard    | 2               |
-| ⭐ Total    | **39**          |
+| ⭐ Total    | **40**          |
 
 ---
 
@@ -131,6 +131,7 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 | 503 | Next Greater Element II                                 | C++      |
 | 3   | Longest Substring Without Repeating Characters          | C++      |
 | 167   | Two Sum II - Input Array Is Sorted         | C++      |
+| 2090   | K Radius Subarray Averages         | C++      |
 
 ---
 
