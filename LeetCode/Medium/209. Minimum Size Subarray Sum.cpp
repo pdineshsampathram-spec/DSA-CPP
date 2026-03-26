@@ -24,7 +24,23 @@
 
 */
 
-
+class Solution {
+public:
+    int minSubArrayLen(int target, vector<int>& nums) {
+        int left=0,sum=0;
+        int m=INT_MAX;
+        for(int right=0;right<nums.size();right++){
+            sum=sum+nums[right];
+            while(sum>=target){
+                m=min(m,right-left+1);
+                sum=sum-nums[left];
+                left++;
+                
+            }
+        }
+        return (m==INT_MAX)? 0:m;
+    }
+};
 
 /*
 🔹 Problem: Minimum Size Subarray Sum (LeetCode 209)
