@@ -1,3 +1,8 @@
+// Approach 1: Brute Force
+// Square all elements and sort the array
+// Time Complexity: O(n log n)
+// Space Complexity: O(n)
+
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
