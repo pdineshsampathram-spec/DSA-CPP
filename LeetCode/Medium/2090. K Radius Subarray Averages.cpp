@@ -1,3 +1,12 @@
+/*
+Problem: K Radius Subarray Averages
+- Use sliding window of size (2*k+1) to compute averages.
+- Update sum by adding next element and removing previous.
+- Store result at center index; fill invalid positions with -1.
+
+Time: O(n) | Space: O(n)
+*/
+
 class Solution {
 public:
     vector<int> getAverages(vector<int>& nums, int k) {
