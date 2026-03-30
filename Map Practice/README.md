@@ -1,8 +1,9 @@
-# 📚 C++ STL - Map & Unordered Map
+# 📚 C++ STL - Map, Unordered Map & Multimap
 
 <p align="center">
 <img src="https://img.shields.io/badge/Container-map-blue">
 <img src="https://img.shields.io/badge/Container-unordered_map-green">
+<img src="https://img.shields.io/badge/Container-multimap-purple">
 <img src="https://img.shields.io/badge/STL-C++-orange">
 </p>
 
@@ -12,35 +13,42 @@
 
 `map` is an associative container that stores elements in **key-value pairs**.
 
-* Each key is **unique**
-* Elements are stored in **sorted order (by key)**
+* Keys are **unique**
+* Elements are stored in **sorted order**
 
 ---
 
 # 📌 What is `unordered_map`?
 
-`unordered_map` also stores **key-value pairs**, but:
-
-* No sorting
+* Stores key-value pairs
 * Uses **hashing**
+* No order
 * Faster on average
+
+---
+
+# 📌 What is `multimap`?
+
+`multimap` is similar to `map`, but:
+
+* **Allows duplicate keys**
+* Stored in **sorted order**
 
 ---
 
 # 🧠 Differences
 
-| Feature         | map                | unordered_map |
-| --------------- | ------------------ | ------------- |
-| Order           | Sorted             | Unordered     |
-| Implementation  | Red-Black Tree     | Hash Table    |
-| Time Complexity | O(log n)           | O(1) average  |
-| Use Case        | When order matters | Fast lookup   |
+| Feature         | map      | unordered_map | multimap |
+| --------------- | -------- | ------------- | -------- |
+| Order           | Sorted   | Unordered     | Sorted   |
+| Duplicate Keys  | ❌ No     | ❌ No          | ✅ Yes    |
+| Time Complexity | O(log n) | O(1) avg      | O(log n) |
 
 ---
 
 # 📥 Header Files
 
-```cpp id="map01h"
+```cpp id="m1"
 #include <map>
 #include <unordered_map>
 ```
@@ -49,35 +57,36 @@
 
 # 📦 Declaration
 
-```cpp id="map02"
-map<int, int> mp;
-unordered_map<int, int> ump;
+```cpp id="m2"
+map<int,int> mp;
+unordered_map<int,int> ump;
+multimap<int,int> mmp;
 ```
 
 ---
 
-# 🔧 Basic Operations
+# 🔧 Basic Operations (map / unordered_map)
 
-## Insert Elements
+## Insert
 
-```cpp id="map03"
+```cpp id="m3"
 mp[1] = 10;
 mp.insert({2, 20});
 ```
 
 ---
 
-## Access Elements
+## Access
 
-```cpp id="map04"
+```cpp id="m4"
 cout << mp[1];
 ```
 
 ---
 
-## Check if Key Exists
+## Check Key
 
-```cpp id="map05"
+```cpp id="m5"
 if(mp.find(1) != mp.end()){
     cout << "Found";
 }
@@ -85,38 +94,27 @@ if(mp.find(1) != mp.end()){
 
 ---
 
-## Delete Element
+## Delete
 
-```cpp id="map06"
+```cpp id="m6"
 mp.erase(1);
 ```
 
 ---
 
-## Size & Empty
+# 🔁 Traversal
 
-```cpp id="map07"
-mp.size();
-mp.empty();
-```
-
----
-
-# 🔁 Traversing Map
-
-```cpp id="map08"
-for(auto it : mp){
-    cout << it.first << " " << it.second << endl;
+```cpp id="m7"
+for(auto x : mp){
+    cout << x.first << " " << x.second << endl;
 }
 ```
 
 ---
 
-# 📊 Frequency Count (Most Important Use)
+# 📊 Frequency Count (Most Important)
 
-```cpp id="map09"
-vector<int> nums = {1,2,2,3,1};
-
+```cpp id="m8"
 unordered_map<int,int> freq;
 
 for(int x : nums){
@@ -126,37 +124,39 @@ for(int x : nums){
 
 ---
 
-# 📌 Common Use Cases
+# 🔧 Multimap Operations
 
-* Frequency counting
-* Finding duplicates
-* Two Sum problems
-* Sliding window with hashing
-* Counting characters in strings
+## Insert (IMPORTANT)
+
+```cpp id="m9"
+multimap<int,int> mmp;
+
+mmp.insert({1,10});
+mmp.insert({1,20});
+mmp.insert({1,30});
+```
+
+✔ Duplicate keys allowed
 
 ---
 
-# ⚡ Example Program
+## Traverse Multimap
 
-```cpp id="map10"
-#include <iostream>
-#include <unordered_map>
-using namespace std;
+```cpp id="m10"
+for(auto x : mmp){
+    cout << x.first << " " << x.second << endl;
+}
+```
 
-int main(){
+---
 
-    unordered_map<int,int> freq;
+## Find All Values of a Key
 
-    int arr[] = {1,2,2,3,1};
+```cpp id="m11"
+auto range = mmp.equal_range(1);
 
-    for(int i=0;i<5;i++){
-        freq[arr[i]]++;
-    }
-
-    for(auto x : freq){
-        cout << x.first << " -> " << x.second << endl;
-    }
-
+for(auto it = range.first; it != range.second; it++){
+    cout << it->second << " ";
 }
 ```
 
@@ -164,14 +164,24 @@ int main(){
 
 # 📌 When to Use
 
-Use `unordered_map` when:
+### Use `unordered_map` (MOST COMMON)
 
-* You need **fast lookup**
-* Order does not matter
+* Frequency counting
+* Fast lookup
+* Interview problems
 
-Use `map` when:
+---
 
-* You need **sorted data**
+### Use `map`
+
+* When sorted order is needed
+
+---
+
+### Use `multimap`
+
+* When **duplicate keys are required**
+* Rare in interviews
 
 ---
 
@@ -187,10 +197,10 @@ Use `map` when:
 
 # 🎯 Learning Outcome
 
-Understanding `map` and `unordered_map` helps in solving:
+Understanding these containers helps in:
 
-* Hashing problems
-* Sliding window problems
-* Optimization problems
+* Hashing
+* Optimization
+* Efficient lookups
 
-These are **very important for coding interviews**.
+These are **core concepts for coding interviews**.
