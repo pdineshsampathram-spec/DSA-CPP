@@ -157,16 +157,15 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 https://leetcode.com/u/xHEB4V3WTQ/
 
 ---
+# 📊 GitHub Stats
 
-# ⚡ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pdineshsampathram-spec\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pdineshsampathram-spec&show_icons=true&theme=tokyonight)
 
 ---
 
-# 💻 Most Used Languages
+# 📊 Top Langs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdineshsampathram-spec\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pdineshsampathram-spec&layout=compact&theme=tokyonight)
 
 ---
 
