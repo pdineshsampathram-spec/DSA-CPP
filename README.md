@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg">
   <img src="https://img.shields.io/badge/Platform-LeetCode-orange.svg">
-  <img src="https://img.shields.io/badge/Total%20Solved-46-brightgreen">
+  <img src="https://img.shields.io/badge/Total%20Solved-47-brightgreen">
   <img src="https://img.shields.io/badge/DSA%20Journey-Active-success">
 </p>
 
@@ -75,9 +75,9 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
 | 🟢 Easy    | 33              |
-| 🟡 Medium  | 11               |
+| 🟡 Medium  | 12               |
 | 🔴 Hard    | 2               |
-| ⭐ Total    | **46**          |
+| ⭐ Total    | **47**          |
 
 ---
 
@@ -138,6 +138,7 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 | 2090   | K Radius Subarray Averages         | C++      |
 | 209   |    Minimum Size Subarray Sum     | C++      |
 | 560   |   Subarray Sum Equals K    | C++      |
+| 875  |   Koko Eating Bananas    | C++      |
 
 ---
 
