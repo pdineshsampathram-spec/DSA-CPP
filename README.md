@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg">
   <img src="https://img.shields.io/badge/Platform-LeetCode-orange.svg">
-  <img src="https://img.shields.io/badge/Total%20Solved-48-brightgreen">
+  <img src="https://img.shields.io/badge/Total%20Solved-49-brightgreen">
   <img src="https://img.shields.io/badge/DSA%20Journey-Active-success">
 </p>
 
@@ -75,10 +75,10 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| 🟢 Easy    | 34              |
+| 🟢 Easy    | 35              |
 | 🟡 Medium  | 12               |
 | 🔴 Hard    | 2               |
-| ⭐ Total    | **48**          |
+| ⭐ Total    | **49**          |
 
 ---
 
@@ -122,6 +122,8 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 | 26 | Remove Duplicates from Sorted Array                    | C++      |
 | 69 | Sqrt(x)                   | C++      |
 | 58 | Length of Last Word                  | C++      |
+| 27 |  Remove Element                | C++      |
+
 
 ---
 
