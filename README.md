@@ -22,7 +22,7 @@ The goal of this repository is to:
 * Improve **problem-solving skills**
 * Strengthen **algorithmic thinking**
 * Prepare for **technical interviews**
-* Currently focusing on **Sliding Window, Stack, Hashing, Binary Search and Two Pointers patterns.**
+* Currently focusing on **Sliding Window, Stack, Hashing, Binary Search and Two Pointers patterns**
 
 ---
 
