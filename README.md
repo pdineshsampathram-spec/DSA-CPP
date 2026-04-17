@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg">
   <img src="https://img.shields.io/badge/Platform-LeetCode-orange.svg">
-  <img src="https://img.shields.io/badge/Total%20Solved-51-brightgreen">
+  <img src="https://img.shields.io/badge/Total%20Solved-52-brightgreen">
   <img src="https://img.shields.io/badge/DSA%20Journey-Active-success">
 </p>
 
@@ -77,9 +77,9 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
 | 🟢 Easy    | 35              |
-| 🟡 Medium  | 14               |
+| 🟡 Medium  | 15               |
 | 🔴 Hard    | 2               |
-| ⭐ Total    | **51**          |
+| ⭐ Total    | **52**          |
 
 ---
 
@@ -146,6 +146,7 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 | 875  |   Koko Eating Bananas    | C++      |
 | 33  | Search in Rotated Sorted Array    | C++      |
 | 540  | Single Element in a Sorted Array    | C++      |
+| 81  | Search in Rotated Sorted Array II   | C++      |
 
 ---
 
