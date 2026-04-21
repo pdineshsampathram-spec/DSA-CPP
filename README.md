@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/DSA%20Journey-Active-success">
 </p>
 
-
 ---
 
 # 📌 About This Repository
