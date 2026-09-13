@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg">
   <img src="https://img.shields.io/badge/Platform-LeetCode-orange.svg">
-  <img src="https://img.shields.io/badge/Total%20Solved-56-brightgreen">
+  <img src="https://img.shields.io/badge/Total%20Solved-59-brightgreen">
   <img src="https://img.shields.io/badge/DSA%20Journey-Active-success">
 </p>
 
@@ -77,10 +77,10 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| 🟢 Easy    | 36              |
+| 🟢 Easy    | 39              |
 | 🟡 Medium  | 18               |
 | 🔴 Hard    | 2               |
-| ⭐ Total    | **56**          |
+| ⭐ Total    | **59**          |
 
 ---
 
@@ -127,7 +127,9 @@ Learning STL containers helps in solving **DSA problems efficiently and writing 
 | 27 |  Remove Element                | C++      |
 | 35 |    Search Insert Position             | C++      |
 | 268 |     Missing Number           | C++      |
-
+| 14 |     Longest Common Prefix           | C++      |
+| 1903 |     Largest Odd Number in String           | C++      |
+| 205 |     Isomorphic Strings           | C++      |
 ---
 
 ## 🟡 Medium
