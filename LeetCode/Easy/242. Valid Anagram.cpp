@@ -1,3 +1,25 @@
+//optimal
+
+class Solution {
+public:
+    bool isAnagram(string s, string t) {
+        if(s.size()!=t.size()) return false;
+        vector<int> v(26,0);
+        for(int i =0 ; i < s.size() ; i++){
+            v[s[i]-'a']++;
+        }
+        for(int i =0 ; i < s.size() ; i++){
+            v[t[i]-'a']--;
+        }
+        for(int i=0;i<26;i++){
+            if(v[i]!=0) return false;
+        }
+        return true;
+    }
+};
+
+
+
 //using sorting
 
 
@@ -14,29 +36,22 @@ public:
 // using maps
 class Solution {
 public:
-    vector<int> nextGreaterElements(vector<int>& nums) {
-        vector<int> v;
-        int a=0;
-        
-        for(int i=0;i<nums.size();i++){
-            bool found=false;
-            
-            for(int j=1;j<nums.size();j++){
-                int temp=(i+j)%nums.size();
-                if(nums[temp]>nums[i]){
-                     a=nums[temp];
-                    found=true;
-                    break;
-                }
-            }
-            if(found==false){
-                v.push_back(-1);
-            }
-            else{
-                v.push_back(a);
-            }
-
+    bool isAnagram(string s, string t) {
+        unordered_map<char , int> m;
+        if(s.size()!=t.size()){
+            return false;
         }
-        return v;
+        for(auto a:s){
+            m[a]++;
+        }
+        for(auto a:t){
+            m[a]--;
+        }
+        for(auto it:m){
+            if(it.second!=0){
+                return false;
+            }
+        }
+        return true;
     }
 };
